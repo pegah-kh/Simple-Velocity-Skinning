@@ -18,7 +18,7 @@ The goal of the original paper is to add exagerated deformation triggered by ske
 
 The code uses [CGP library](https://github.com/drohmer/CGP). This latter is a lightweight and minimalist C++ library using OpenGL to represent, animate, and interact with 3D scenes.
 
-You first need to clone the [CGP library](https://github.com/drohmer/CGP) and then change the `PATH_TO_LIBRARY` parameter `Animation_Khayatan_Shilova/CMakeLists.txt` to your relative path to library folder of the CGP. You can then folllow these [installation instructions](https://imagecomputing.net/cgp/compilation/content/01_compilation/index.html) to properly install dependencies and compile the library.
+You first need to clone the [CGP library](https://github.com/drohmer/CGP) and then change the `PATH_TO_LIBRARY` parameter in `Animation_Khayatan_Shilova/CMakeLists.txt` to your relative path to library folder of the CGP. You can then folllow these [installation instructions](https://imagecomputing.net/cgp/compilation/content/01_compilation/index.html) to properly install dependencies and compile the library.
 
 
 <a name="Anillustration"></a>
